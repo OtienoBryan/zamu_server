@@ -1,0 +1,36 @@
+import { Department } from './department.entity';
+import { Station } from './station.entity';
+import { RawMaterialStore } from './raw-material-store.entity';
+export declare class Staff {
+    id: number;
+    name: string;
+    photo_url: string;
+    empl_no: string;
+    id_no: string;
+    role: string;
+    store_id: number | null;
+    store?: RawMaterialStore;
+    designation: number | null;
+    phone_number: string | null;
+    password: string;
+    cash_balance: number;
+    department: string | null;
+    department_id: number | null;
+    department_relation?: Department;
+    business_email: string | null;
+    department_email: string | null;
+    salary: number | null;
+    employment_type: string;
+    gender: 'Male' | 'Female' | 'Other';
+    station_id: number | null;
+    station?: Station;
+    pump_number: number;
+    fcm_token: string | null;
+    stationss: number | null;
+    manager_id: number | null;
+    created_at: Date;
+    updated_at: Date;
+    is_active: number;
+    avatar_url: string;
+    status: number;
+}

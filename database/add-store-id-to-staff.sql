@@ -1,0 +1,2 @@
+ALTER TABLE staff
+  ADD COLUMN store_id INT NULL AFTER role;

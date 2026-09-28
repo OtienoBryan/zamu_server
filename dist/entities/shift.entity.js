@@ -1,0 +1,135 @@
+"use strict";
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Shift = void 0;
+const typeorm_1 = require("typeorm");
+let Shift = class Shift {
+    id;
+    date;
+    time;
+    userId;
+    userName;
+    station_id;
+    station_name;
+    status;
+    checkInTime;
+    latitude;
+    longitude;
+    imageUrl;
+    notes;
+    pump_number;
+    checkoutLatitude;
+    checkoutLongitude;
+    checkoutTime;
+    showUpdateLocation;
+    routeId;
+    createdAt;
+    updatedAt;
+    outlet_address;
+    approvedAt;
+};
+exports.Shift = Shift;
+__decorate([
+    (0, typeorm_1.PrimaryGeneratedColumn)(),
+    __metadata("design:type", Number)
+], Shift.prototype, "id", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'datetime' }),
+    __metadata("design:type", Date)
+], Shift.prototype, "date", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 191 }),
+    __metadata("design:type", String)
+], Shift.prototype, "time", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'int', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "userId", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 200 }),
+    __metadata("design:type", String)
+], Shift.prototype, "userName", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'int' }),
+    __metadata("design:type", Number)
+], Shift.prototype, "station_id", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 100 }),
+    __metadata("design:type", String)
+], Shift.prototype, "station_name", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'int', default: 0 }),
+    __metadata("design:type", Number)
+], Shift.prototype, "status", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'datetime', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "checkInTime", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'double', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "latitude", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'double', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "longitude", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 191, nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "imageUrl", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 191, nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "notes", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'int' }),
+    __metadata("design:type", Number)
+], Shift.prototype, "pump_number", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'double', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "checkoutLatitude", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'double', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "checkoutLongitude", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'datetime', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "checkoutTime", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'tinyint', width: 1, default: 1 }),
+    __metadata("design:type", Number)
+], Shift.prototype, "showUpdateLocation", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'int', nullable: true }),
+    __metadata("design:type", Object)
+], Shift.prototype, "routeId", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 50 }),
+    __metadata("design:type", String)
+], Shift.prototype, "createdAt", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 50 }),
+    __metadata("design:type", String)
+], Shift.prototype, "updatedAt", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 100 }),
+    __metadata("design:type", String)
+], Shift.prototype, "outlet_address", void 0);
+__decorate([
+    (0, typeorm_1.Column)({ type: 'varchar', length: 100 }),
+    __metadata("design:type", String)
+], Shift.prototype, "approvedAt", void 0);
+exports.Shift = Shift = __decorate([
+    (0, typeorm_1.Entity)('shifts')
+], Shift);
+//# sourceMappingURL=shift.entity.js.map

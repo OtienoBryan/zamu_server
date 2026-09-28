@@ -1,0 +1,31 @@
+import { Repository, DataSource } from 'typeorm';
+import { RawMaterialPurchaseOrder } from '../entities/raw-material-purchase-order.entity';
+import { RawMaterialStore } from '../entities/raw-material-store.entity';
+import { RawMaterialStoreInventory } from '../entities/raw-material-store-inventory.entity';
+import { RawMaterialInventoryLedger } from '../entities/raw-material-inventory-ledger.entity';
+import { RawMaterial } from '../entities/raw-material.entity';
+import { Supplier } from '../entities/supplier.entity';
+import { CreatePurchaseOrderDto } from './dto/create-purchase-order.dto';
+import { ReceivePurchaseOrderDto } from './dto/receive-purchase-order.dto';
+import { CreateStoreDto } from './dto/create-store.dto';
+import { UpdateStoreDto } from './dto/update-store.dto';
+export declare class PurchaseOrdersService {
+    private purchaseOrderRepository;
+    private storeRepository;
+    private supplierRepository;
+    private rawMaterialRepository;
+    private dataSource;
+    constructor(purchaseOrderRepository: Repository<RawMaterialPurchaseOrder>, storeRepository: Repository<RawMaterialStore>, supplierRepository: Repository<Supplier>, rawMaterialRepository: Repository<RawMaterial>, dataSource: DataSource);
+    findAll(): Promise<RawMaterialPurchaseOrder[]>;
+    findOne(id: number): Promise<RawMaterialPurchaseOrder>;
+    create(dto: CreatePurchaseOrderDto): Promise<RawMaterialPurchaseOrder>;
+    receive(id: number, dto: ReceivePurchaseOrderDto, createdBy: number): Promise<RawMaterialPurchaseOrder>;
+    cancel(id: number): Promise<RawMaterialPurchaseOrder>;
+    findAllStores(): Promise<RawMaterialStore[]>;
+    createStore(dto: CreateStoreDto): Promise<RawMaterialStore>;
+    updateStore(id: number, dto: UpdateStoreDto): Promise<RawMaterialStore>;
+    removeStore(id: number): Promise<void>;
+    findAllInventory(): Promise<RawMaterialStoreInventory[]>;
+    findStoreInventory(storeId: number): Promise<RawMaterialStoreInventory[]>;
+    findInventoryLedger(): Promise<RawMaterialInventoryLedger[]>;
+}

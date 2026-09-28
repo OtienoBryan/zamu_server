@@ -1,0 +1,36 @@
+[Nest] 36140  - 28/08/2026, 13:14:41   ERROR [ExceptionsHandler] Error: connect ENETUNREACH 102.130.125.52:3306
+[90m    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)[39m {
+  errno: [33m-4062[39m,
+  code: [32m'ENETUNREACH'[39m,
+  syscall: [32m'connect'[39m,
+  address: [32m'102.130.125.52'[39m,
+  port: [33m3306[39m,
+  fatal: [33mtrue[39m
+}
+[Nest] 36140  - 28/08/2026, 13:14:42   ERROR [ExceptionsHandler] Error: connect ENETUNREACH 102.130.125.52:3306
+[90m    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)[39m {
+  errno: [33m-4062[39m,
+  code: [32m'ENETUNREACH'[39m,
+  syscall: [32m'connect'[39m,
+  address: [32m'102.130.125.52'[39m,
+  port: [33m3306[39m,
+  fatal: [33mtrue[39m
+}
+[Nest] 36140  - 28/08/2026, 13:53:16   ERROR [ExceptionsHandler] Error: connect ENETUNREACH 102.130.125.52:3306
+[90m    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)[39m {
+  errno: [33m-4062[39m,
+  code: [32m'ENETUNREACH'[39m,
+  syscall: [32m'connect'[39m,
+  address: [32m'102.130.125.52'[39m,
+  port: [33m3306[39m,
+  fatal: [33mtrue[39m
+}
+[Nest] 36140  - 28/08/2026, 13:53:16   ERROR [ExceptionsHandler] Error: connect ENETUNREACH 102.130.125.52:3306
+[90m    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)[39m {
+  errno: [33m-4062[39m,
+  code: [32m'ENETUNREACH'[39m,
+  syscall: [32m'connect'[39m,
+  address: [32m'102.130.125.52'[39m,
+  port: [33m3306[39m,
+  fatal: [33mtrue[39m
+}

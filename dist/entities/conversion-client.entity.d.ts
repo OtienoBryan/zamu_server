@@ -1,0 +1,31 @@
+export declare class ConversionClient {
+    id: number;
+    name: string;
+    first_name: string | null;
+    middle_name: string | null;
+    surname: string | null;
+    email: string | null;
+    contact: string;
+    account_number: string;
+    address: string | null;
+    description: string | null;
+    region: string | null;
+    category: 'individual' | 'company';
+    organization_type: 'individual' | 'sacco' | 'company' | null;
+    organization_name: string | null;
+    tax_pin: string | null;
+    referral_source: string | null;
+    referral_notes: string | null;
+    tax_exempt: number;
+    apply_discount: number;
+    discount_rate: string | null;
+    labour_rate_override: number;
+    labour_rate: string | null;
+    parts_markup_override: number;
+    parts_markup: string | null;
+    payment_terms_override: number;
+    payment_terms: string | null;
+    is_active: number;
+    created_at: Date;
+    updated_at: Date;
+}

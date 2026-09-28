@@ -1,0 +1,170 @@
+"use strict";
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+var __param = (this && this.__param) || function (paramIndex, decorator) {
+    return function (target, key) { decorator(target, key, paramIndex); }
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.MachineInventoryService = void 0;
+const common_1 = require("@nestjs/common");
+const typeorm_1 = require("@nestjs/typeorm");
+const typeorm_2 = require("typeorm");
+const machine_store_inventory_entity_1 = require("../entities/machine-store-inventory.entity");
+const machine_inventory_ledger_entity_1 = require("../entities/machine-inventory-ledger.entity");
+const raw_material_store_entity_1 = require("../entities/raw-material-store.entity");
+const machine_entity_1 = require("../entities/machine.entity");
+let MachineInventoryService = class MachineInventoryService {
+    inventoryRepository;
+    ledgerRepository;
+    storeRepository;
+    machineRepository;
+    dataSource;
+    constructor(inventoryRepository, ledgerRepository, storeRepository, machineRepository, dataSource) {
+        this.inventoryRepository = inventoryRepository;
+        this.ledgerRepository = ledgerRepository;
+        this.storeRepository = storeRepository;
+        this.machineRepository = machineRepository;
+        this.dataSource = dataSource;
+    }
+    async findAllInventory() {
+        return this.inventoryRepository.find({
+            relations: ['store', 'machine'],
+            order: { id: 'ASC' },
+        });
+    }
+    async findLedger(machineId) {
+        return this.ledgerRepository.find({
+            where: machineId != null ? { machineId } : {},
+            relations: ['store', 'machine'],
+            order: { createdAt: 'DESC' },
+        });
+    }
+    async applyMovement(manager, storeId, machineId, transactionType, quantity, newQuantity, notes, createdBy) {
+        let inventory = await manager.findOne(machine_store_inventory_entity_1.MachineStoreInventory, { where: { storeId, machineId } });
+        const previousQuantity = inventory ? Number(inventory.quantity) : 0;
+        if (!inventory) {
+            inventory = manager.create(machine_store_inventory_entity_1.MachineStoreInventory, { storeId, machineId, quantity: newQuantity });
+        }
+        else {
+            inventory.quantity = newQuantity;
+        }
+        await manager.save(machine_store_inventory_entity_1.MachineStoreInventory, inventory);
+        const ledgerEntry = manager.create(machine_inventory_ledger_entity_1.MachineInventoryLedger, {
+            storeId,
+            machineId,
+            transactionType,
+            quantity,
+            previousQuantity,
+            newQuantity,
+            notes,
+            createdBy,
+        });
+        const saved = await manager.save(machine_inventory_ledger_entity_1.MachineInventoryLedger, ledgerEntry);
+        return saved.id;
+    }
+    async createAdjustment(dto, createdBy) {
+        const store = await this.storeRepository.findOne({ where: { id: dto.storeId } });
+        if (!store) {
+            throw new common_1.NotFoundException(`Store with ID ${dto.storeId} not found`);
+        }
+        const machine = await this.machineRepository.findOne({ where: { id: dto.machineId } });
+        if (!machine) {
+            throw new common_1.NotFoundException(`Machine with ID ${dto.machineId} not found`);
+        }
+        const ledgerId = await this.dataSource.transaction(async (manager) => {
+            const inventory = await manager.findOne(machine_store_inventory_entity_1.MachineStoreInventory, {
+                where: { storeId: dto.storeId, machineId: dto.machineId },
+            });
+            const previousQuantity = inventory ? Number(inventory.quantity) : 0;
+            const newQuantity = dto.direction === 'in' ? previousQuantity + dto.quantity : previousQuantity - dto.quantity;
+            if (newQuantity < 0) {
+                throw new common_1.BadRequestException(`Cannot remove ${dto.quantity} — only ${previousQuantity} at ${store.name}`);
+            }
+            return this.applyMovement(manager, dto.storeId, dto.machineId, dto.direction === 'in' ? 'adjustment_in' : 'adjustment_out', dto.quantity, newQuantity, dto.notes ?? null, createdBy);
+        });
+        return this.ledgerRepository.findOne({ where: { id: ledgerId }, relations: ['store', 'machine'] });
+    }
+    async setQuantity(dto, createdBy) {
+        const store = await this.storeRepository.findOne({ where: { id: dto.storeId } });
+        if (!store) {
+            throw new common_1.NotFoundException(`Store with ID ${dto.storeId} not found`);
+        }
+        const machine = await this.machineRepository.findOne({ where: { id: dto.machineId } });
+        if (!machine) {
+            throw new common_1.NotFoundException(`Machine with ID ${dto.machineId} not found`);
+        }
+        const ledgerId = await this.dataSource.transaction(async (manager) => {
+            const inventory = await manager.findOne(machine_store_inventory_entity_1.MachineStoreInventory, {
+                where: { storeId: dto.storeId, machineId: dto.machineId },
+            });
+            const previousQuantity = inventory ? Number(inventory.quantity) : 0;
+            const delta = dto.quantity - previousQuantity;
+            if (delta === 0) {
+                throw new common_1.BadRequestException('New quantity matches the current balance — nothing to update');
+            }
+            return this.applyMovement(manager, dto.storeId, dto.machineId, delta > 0 ? 'adjustment_in' : 'adjustment_out', Math.abs(delta), dto.quantity, dto.notes ?? 'Stock count update', createdBy);
+        });
+        return this.ledgerRepository.findOne({ where: { id: ledgerId }, relations: ['store', 'machine'] });
+    }
+    async transfer(dto, createdBy) {
+        if (dto.fromStoreId === dto.toStoreId) {
+            throw new common_1.BadRequestException('Source and destination stores must be different');
+        }
+        const [fromStore, toStore, machine] = await Promise.all([
+            this.storeRepository.findOne({ where: { id: dto.fromStoreId } }),
+            this.storeRepository.findOne({ where: { id: dto.toStoreId } }),
+            this.machineRepository.findOne({ where: { id: dto.machineId } }),
+        ]);
+        if (!fromStore) {
+            throw new common_1.NotFoundException(`Store with ID ${dto.fromStoreId} not found`);
+        }
+        if (!toStore) {
+            throw new common_1.NotFoundException(`Store with ID ${dto.toStoreId} not found`);
+        }
+        if (!machine) {
+            throw new common_1.NotFoundException(`Machine with ID ${dto.machineId} not found`);
+        }
+        const { fromLedgerId, toLedgerId } = await this.dataSource.transaction(async (manager) => {
+            const fromInventory = await manager.findOne(machine_store_inventory_entity_1.MachineStoreInventory, {
+                where: { storeId: dto.fromStoreId, machineId: dto.machineId },
+            });
+            const fromPrevious = fromInventory ? Number(fromInventory.quantity) : 0;
+            if (fromPrevious < dto.quantity) {
+                throw new common_1.BadRequestException(`Cannot transfer ${dto.quantity} — only ${fromPrevious} at ${fromStore.name}`);
+            }
+            const fromLedgerId = await this.applyMovement(manager, dto.fromStoreId, dto.machineId, 'transfer_out', dto.quantity, fromPrevious - dto.quantity, dto.notes ? `${dto.notes} (to ${toStore.name})` : `Transferred to ${toStore.name}`, createdBy);
+            const toInventory = await manager.findOne(machine_store_inventory_entity_1.MachineStoreInventory, {
+                where: { storeId: dto.toStoreId, machineId: dto.machineId },
+            });
+            const toPrevious = toInventory ? Number(toInventory.quantity) : 0;
+            const toLedgerId = await this.applyMovement(manager, dto.toStoreId, dto.machineId, 'transfer_in', dto.quantity, toPrevious + dto.quantity, dto.notes ? `${dto.notes} (from ${fromStore.name})` : `Transferred from ${fromStore.name}`, createdBy);
+            return { fromLedgerId, toLedgerId };
+        });
+        const [from, to] = await Promise.all([
+            this.ledgerRepository.findOne({ where: { id: fromLedgerId }, relations: ['store', 'machine'] }),
+            this.ledgerRepository.findOne({ where: { id: toLedgerId }, relations: ['store', 'machine'] }),
+        ]);
+        return { from: from, to: to };
+    }
+};
+exports.MachineInventoryService = MachineInventoryService;
+exports.MachineInventoryService = MachineInventoryService = __decorate([
+    (0, common_1.Injectable)(),
+    __param(0, (0, typeorm_1.InjectRepository)(machine_store_inventory_entity_1.MachineStoreInventory)),
+    __param(1, (0, typeorm_1.InjectRepository)(machine_inventory_ledger_entity_1.MachineInventoryLedger)),
+    __param(2, (0, typeorm_1.InjectRepository)(raw_material_store_entity_1.RawMaterialStore)),
+    __param(3, (0, typeorm_1.InjectRepository)(machine_entity_1.Machine)),
+    __metadata("design:paramtypes", [typeorm_2.Repository,
+        typeorm_2.Repository,
+        typeorm_2.Repository,
+        typeorm_2.Repository,
+        typeorm_2.DataSource])
+], MachineInventoryService);
+//# sourceMappingURL=machine-inventory.service.js.map

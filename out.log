@@ -1,0 +1,889 @@
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [NestFactory] Starting Nest application...
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +36ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ConfigHostModule dependencies initialized +2ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ThrottlerModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ConfigModule dependencies initialized +4ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ConfigModule dependencies initialized +2ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] CloudinaryModule dependencies initialized +70ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] NotificationsModule dependencies initialized +3ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] AppModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmCoreModule dependencies initialized +381ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PassengersModule dependencies initialized +2ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] FinancialReportsModule dependencies initialized +13ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] AuthModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] NoticesModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] CountriesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ProductsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] CategoriesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] RegionsModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StationsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] LpgLedgerModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StationTanksModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StationExpensesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] FuelPricesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] KeyAccountsModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] KeyAccountLedgerModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] VehiclesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] InventoryModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] SalesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ConversionsModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ConversionClientsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ConversionVehiclesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PartsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PartCategoriesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] VendorsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PartPurchaseOrdersModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StoresModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ServicesCatalogModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] VehicleInspectionsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ChecklistTemplatesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ShiftsModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StaffLeavesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] SalesPostingsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] OmcsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] FuelTypesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] RawMaterialsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] SuppliersModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PurchaseOrdersModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StaffMembersModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ProductionStagesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] JobsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] WorkOrdersModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] WorkOrderLogsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ChartOfAccountsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] LabourPaymentsModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ClientsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PosSalesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] PosSalePaymentsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ExpensesModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ExpensePaymentsModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] FinishedProductInventoryModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] AppointmentsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] FinishedProductsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] StaffModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] ChatModule dependencies initialized +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] BookingsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [InstanceLoader] JobCardsModule dependencies initialized +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] AppController {/api}: +7ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api, GET} route +2ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] AuthController {/api/auth}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/auth/admin/login, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/auth/profile, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ChatController {/api/chat}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/rooms, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/rooms, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/rooms/:roomId, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/rooms/:roomId/messages, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/rooms/:roomId/messages/new, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/messages, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/staff, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/messages/:messageId/read, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chat/timezone/current, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] NoticesController {/api/notices}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/notices, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/notices, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/notices/stats, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/notices/:id, PATCH} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/notices/:id/toggle-status, PATCH} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/notices/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] CountriesController {/api/countries}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/countries, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/countries/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/countries/name/:name, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StaffController {/api/staff}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff/departments, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff/upload-image, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ProductsController {/api/admin/products}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/products, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/products/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] CategoriesController {/api/admin/categories}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/categories, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/categories, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/categories/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/categories/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] BookingsController {/api/admin/bookings}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/admin/bookings, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] RegionsController {/api/regions}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/regions, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/regions, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/regions/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/regions/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StationsController {/api/stations}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stations, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stations/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stations, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stations/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stations/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] LpgLedgerController {/api/stations/:stationId/lpg-ledger}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stations/:stationId/lpg-ledger, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StationTanksController {/api/station-tanks}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-tanks, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-tanks/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-tanks, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-tanks/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-tanks/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StationExpensesController {/api/station-expenses}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-expenses, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-expenses/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-expenses, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-expenses/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/station-expenses/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] FuelPricesController {/api/fuel-prices}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-prices, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-prices/station/:stationId, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-prices/station/:stationId/latest, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-prices/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-prices/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-prices/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] KeyAccountsController {/api/key-accounts}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-accounts, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-accounts/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-accounts, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-accounts/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-accounts/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] KeyAccountLedgerController {/api/key-account-ledger}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-account-ledger, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-account-ledger, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-account-ledger/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/key-account-ledger/key-account/:keyAccountId, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] VehiclesController {/api/vehicles}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicles, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicles/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicles, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicles/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicles/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] InventoryController {/api/inventory}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory/by-store, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory/ledger, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory/transaction, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/inventory/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] SalesController {/api/sales}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales/report/weekly, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales/report/fuel, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ConversionsController {/api/conversions}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversions, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversions, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversions/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversions/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ConversionClientsController {/api/conversion-clients}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-clients, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-clients/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-clients, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-clients/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-clients/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ConversionVehiclesController {/api/conversion-vehicles}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-vehicles, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-vehicles/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-vehicles, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-vehicles/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-vehicles/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/conversion-vehicles/analyze-image, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PartsController {/api/parts}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/parts, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/parts/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/parts, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/parts/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/parts/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PartCategoriesController {/api/part-categories}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-categories, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-categories/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-categories, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-categories/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-categories/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] VendorsController {/api/vendors}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vendors, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vendors/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vendors, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vendors/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vendors/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vendors/:id/ledger, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PartPurchaseOrdersController {/api/part-purchase-orders}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-purchase-orders, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-purchase-orders/next-po, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-purchase-orders/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-purchase-orders, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-purchase-orders/:id/status, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/part-purchase-orders/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StoresController {/api/stores}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stores, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stores/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stores, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stores/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/stores/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ServicesCatalogController {/api/services}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/services, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/services/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/services, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/services/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/services/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] JobCardsController {/api/job-cards}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards/:id/convert-to-invoice, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] JobCardPaymentsController {/api/job-cards/:jobCardId/payments}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards/:jobCardId/payments, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/job-cards/:jobCardId/payments, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PaymentsController {/api/payments}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/payments, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] VehicleInspectionsController {/api/vehicle-inspections}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicle-inspections, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicle-inspections/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicle-inspections, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicle-inspections/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/vehicle-inspections/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ChecklistTemplatesController {/api/checklist-templates}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/checklist-templates, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/checklist-templates/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/checklist-templates, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/checklist-templates/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/checklist-templates/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] AppointmentsController {/api/appointments}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/appointments, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/appointments/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/appointments, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/appointments/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/appointments/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ShiftsController {/api/shifts}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/shifts, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StaffLeavesController {/api/staff-leaves}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff-leaves, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] SalesPostingsController {/api/sales-postings}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales-postings, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales-postings, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/sales-postings/:id, PATCH} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] OmcsController {/api/omcs}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/omcs, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/omcs/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/omcs, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/omcs/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/omcs/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] FuelTypesController {/api/fuel-types}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-types, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-types/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-types, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-types/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/fuel-types/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] RawMaterialsController {/api/raw-materials}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/categories, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/categories, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/categories/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/categories/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/:id, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/raw-materials/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] SuppliersController {/api/suppliers}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers/payables/aging, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers/:id/ledger, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/suppliers/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PurchaseOrdersController {/api/purchase-orders}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/stores, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/stores, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/stores/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/stores/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/inventory, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/stores/:storeId/inventory, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/inventory-ledger, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/:id/receive, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/purchase-orders/:id/cancel, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] FinancialReportsController {/api/financial-reports}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/financial-reports/trial-balance, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/financial-reports/profit-and-loss, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/financial-reports/accounts, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/financial-reports/journal-entries, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] FinishedProductsController {/api/finished-products}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/categories, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/categories, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/upload-image, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id/materials, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id/materials, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id/materials/:lineId, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-products/:id/materials/:lineId, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] StaffMembersController {/api/staff-members}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff-members, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff-members/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff-members, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff-members/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/staff-members/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ProductionStagesController {/api/production-stages}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/production-stages, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/production-stages/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/production-stages, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/production-stages/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/production-stages/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] JobsController {/api/jobs}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/jobs, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/jobs/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/jobs, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/jobs/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/jobs/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] WorkOrdersController {/api/work-orders}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-orders, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-orders/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-orders, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-orders/:id, PUT} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-orders/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] WorkOrderLogsController {/api/work-order-logs}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-order-logs, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-order-logs, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/work-order-logs/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ChartOfAccountsController {/api/chart-of-accounts}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts, GET} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts/categories, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts/payment-methods, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts/expense-accounts, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/chart-of-accounts/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] LabourPaymentsController {/api/labour-payments}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/labour-payments, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/labour-payments, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/labour-payments/:id, DELETE} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ClientsController {/api/clients}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/clients, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/clients/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/clients, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/clients/:id, PUT} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/clients/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PosSalesController {/api/pos-sales}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/pos-sales, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/pos-sales/:id, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/pos-sales, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] PosSalePaymentsController {/api/pos-sale-payments}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/pos-sale-payments, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/pos-sale-payments, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/pos-sale-payments/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ExpensesController {/api/expenses}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/expenses, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/expenses, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] ExpensePaymentsController {/api/expense-payments}: +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/expense-payments, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/expense-payments, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/expense-payments/:id, DELETE} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RoutesResolver] FinishedProductInventoryController {/api/finished-product-inventory}: +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-product-inventory, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-product-inventory/ledger, GET} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-product-inventory/adjust, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-product-inventory/set-quantity, POST} route +1ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [RouterExplorer] Mapped {/api/finished-product-inventory/transfer, POST} route +0ms
+[Nest] 36140  - 28/08/2026, 06:57:28     LOG [NestApplication] Nest application successfully started +12ms
+🚀 Server running on http://localhost:3001
+🔒 Security features enabled: Helmet, CORS, Validation
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/auth/profile from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/clients completed successfully
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+✅ [Security] GET /api/auth/profile completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/auth/profile from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/clients completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-product-inventory completed successfully
+✅ [Security] GET /api/auth/profile completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] POST /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] POST /api/pos-sales completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] POST /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] POST /api/pos-sale-payments completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+🔒 [Security] GET /api/financial-reports/trial-balance?startDate=2026-08-01&endDate=2026-08-28 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/financial-reports/trial-balance?startDate=2026-08-01&endDate=2026-08-28 completed successfully
+🔒 [Security] GET /api/financial-reports/trial-balance?startDate=2026-08-01&endDate=2026-08-28 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/financial-reports/trial-balance?startDate=2026-08-01&endDate=2026-08-28 completed successfully
+🔒 [Security] GET /api/financial-reports/accounts from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/financial-reports/journal-entries?startDate=2026-08-01&endDate=2026-08-28&accountId=24&page=1&pageSize=15 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/financial-reports/accounts completed successfully
+🔒 [Security] GET /api/financial-reports/accounts from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/financial-reports/journal-entries?startDate=2026-08-01&endDate=2026-08-28&accountId=24&page=1&pageSize=15 completed successfully
+🔒 [Security] GET /api/financial-reports/journal-entries?startDate=2026-08-01&endDate=2026-08-28&accountId=24&page=1&pageSize=15 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/financial-reports/accounts completed successfully
+✅ [Security] GET /api/financial-reports/journal-entries?startDate=2026-08-01&endDate=2026-08-28&accountId=24&page=1&pageSize=15 completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-products/categories completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-products/categories completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory/ledger?productId=1 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory/ledger?productId=1 completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory/ledger?productId=1 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory/ledger?productId=1 completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/auth/profile from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/auth/profile from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] POST /api/auth/admin/login from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔐 [AuthService] Starting login process
+🔍 [AuthService] Validating staff with email: admin@zamu.com
+✅ [AuthService] Staff found: { id: 9, name: 'admins', email: 'admin@zamu.com', is_active: 1 }
+🔐 [AuthService] Password validation result: true
+✅ [AuthService] Staff validation successful
+✅ [AuthService] Login successful for: admin@zamu.com
+✅ [Security] POST /api/auth/admin/login completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/clients completed successfully
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/clients completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products/categories completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-products/categories completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/raw-materials/categories completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials/categories completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] PUT /api/raw-materials/2 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] PUT /api/raw-materials/2 completed successfully
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/raw-materials/categories completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/inventory completed successfully
+🔒 [Security] GET /api/purchase-orders/inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/purchase-orders/inventory completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/raw-materials/categories completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/raw-materials/categories completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] POST /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-products/categories completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-products/categories completed successfully
+✅ [Security] POST /api/pos-sales completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-product-inventory completed successfully
+🔒 [Security] GET /api/finished-product-inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-product-inventory completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory/ledger?productId=1 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-product-inventory/ledger?productId=1 completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-product-inventory/ledger?productId=1 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/finished-product-inventory/ledger?productId=1 completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales/5 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments?posSaleId=5 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments?posSaleId=5 completed successfully
+🔒 [Security] GET /api/pos-sale-payments?posSaleId=5 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments?posSaleId=5 completed successfully
+✅ [Security] GET /api/pos-sales/5 completed successfully
+🔒 [Security] GET /api/pos-sales/5 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales/5 completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials/categories completed successfully
+🔒 [Security] GET /api/raw-materials/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials/categories completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/purchase-orders/inventory completed successfully
+🔒 [Security] GET /api/purchase-orders/inventory from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/inventory completed successfully
+🔒 [Security] GET /api/purchase-orders from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders completed successfully
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/purchase-orders completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/suppliers from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/suppliers completed successfully
+🔒 [Security] GET /api/suppliers from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/suppliers completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] POST /api/purchase-orders from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] POST /api/purchase-orders completed successfully
+🔒 [Security] GET /api/purchase-orders from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+🔒 [Security] GET /api/purchase-orders/stores from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders completed successfully
+🔒 [Security] GET /api/purchase-orders from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/purchase-orders/stores completed successfully
+✅ [Security] GET /api/purchase-orders completed successfully
+🔒 [Security] POST /api/purchase-orders/4/receive from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] POST /api/purchase-orders/4/receive completed successfully
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products/categories completed successfully
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products/categories completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+✅ [Security] GET /api/finished-products completed successfully
+🔒 [Security] GET /api/finished-products/1/materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products/1/materials completed successfully
+🔒 [Security] GET /api/finished-products from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/finished-products/categories from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/raw-materials from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/finished-products completed successfully
+✅ [Security] GET /api/finished-products/categories completed successfully
+✅ [Security] GET /api/raw-materials completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments completed successfully
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/pos-sales completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+🔒 [Security] GET /api/pos-sales/4 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments?posSaleId=4 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments?posSaleId=4 completed successfully
+🔒 [Security] GET /api/pos-sale-payments?posSaleId=4 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales/4 completed successfully
+🔒 [Security] GET /api/pos-sales/4 from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sale-payments?posSaleId=4 completed successfully
+✅ [Security] GET /api/pos-sales/4 completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/clients completed successfully
+🔒 [Security] GET /api/clients from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/pos-sale-payments from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/chart-of-accounts/payment-methods from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/chart-of-accounts/payment-methods completed successfully
+✅ [Security] GET /api/clients completed successfully
+✅ [Security] GET /api/pos-sale-payments completed successfully
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/pos-sales from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+✅ [Security] GET /api/pos-sales completed successfully
+🔒 [Security] GET /api/auth/profile from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+🔒 [Security] GET /api/auth/profile from ::1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
